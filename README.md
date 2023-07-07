@@ -1,0 +1,2 @@
+# TextractorChineseTranslator
+为Textractor开发的中文翻译拓展，目前支持百度、彩云和中文必应
